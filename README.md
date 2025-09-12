@@ -1,4 +1,4 @@
-# Testing-web-application-
+# Testing web application
 Testing web application "Интернет-магазин"
 
 Тест-план для приложения "Интернет магазин"
